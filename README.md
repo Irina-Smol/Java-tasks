@@ -10,4 +10,4 @@ JavaRush Training:
 
 3. JavaMultithreading
 
-4. JavaCollections
+4 JavaCollections
